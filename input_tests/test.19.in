@@ -1,0 +1,102 @@
+Atlanta 1 Nashville
+Atlanta 2 Raleigh
+Atlanta 2 Charleston
+Atlanta 4 New_Orleans
+Boston 2 Montreal
+Boston 2 New_York
+Calgary 6 Winnipeg
+Calgary 4 Helena
+Calgary 4 Seattle
+Calgary 3 Vancouver
+Charleston 2 Raleigh
+Charleston 4 Miami
+Chicago 4 Toronto
+Chicago 3 Pittsburgh
+Chicago 2 Saint_Louis
+Chicago 4 Omaha
+Chicago 3 Duluth
+Dallas 2 Little_Rock
+Dallas 1 Houston
+Dallas 4 El_Paso
+Dallas 2 Oklahoma_City
+Denver 5 Omaha
+Denver 4 Kansas_City
+Denver 4 Oklahoma_City
+Denver 2 Santa_Fe
+Denver 5 Phoenix
+Denver 3 Salt_Lake_City
+Duluth 3 Sault_St._Marie
+Duluth 6 Toronto
+Duluth 2 Omaha
+Duluth 6 Helena
+Duluth 4 Winnipeg
+El_Paso 5 Oklahoma_City
+El_Paso 6 Houston
+El_Paso 6 Los_Angeles
+El_Paso 3 Phoenix
+El_Paso 2 Santa_Fe
+Helena 4 Winnipeg
+Helena 5 Omaha
+Helena 4 Denver
+Helena 3 Salt_Lake_City
+Helena 6 Seattle
+Houston 2 New_Orleans
+Kansas_City 2 Saint_Louis
+Kansas_City 2 Oklahoma_City
+Kansas_City 1 Omaha
+Las_Vegas 3 Salt_Lake_City
+Las_Vegas 2 Los_Angeles
+Little_Rock 3 Nashville
+Little_Rock 3 New_Orleans
+Little_Rock 2 Oklahoma_City
+Little_Rock 2 Saint_Louis
+Los_Angeles 3 San_Francisco
+Los_Angeles 3 Phoenix
+Miami 6 New_Orleans
+Miami 5 Atlanta
+Montreal 3 New_York
+Montreal 3 Toronto
+Montreal 6 Sault_St._Marie
+Nashville 3 Raleigh
+Nashville 2 Saint_Louis
+Nashville 4 Pittsburgh
+New_York 2 Washington
+New_York 2 Pittsburgh
+Oklahoma_City 3 Santa_Fe
+Phoenix 3 Santa_Fe
+Pittsburgh 2 Toronto
+Pittsburgh 2 Washington
+Pittsburgh 2 Raleigh
+Pittsburgh 5 Saint_Louis
+Portland 1 Seattle
+Portland 6 Salt_Lake_City
+Portland 6 San_Francisco
+Raleigh 2 Washington
+Saint_Louis 2 Chicago
+Salt_Lake_City 5 San_Francisco
+Sault_St._Marie 2 Toronto
+Sault_St._Marie 6 Winnipeg
+Seattle 1 Vancouver
+done
+Seattle Miami
+Los_Angeles Winnipeg
+Houston Winnipeg
+Montreal Las_Vegas
+Toronto Portland
+Miami Phoenix
+Vancouver Phoenix
+Toronto Vancouver
+Calgary El_Paso
+San_Francisco Saint_Louis
+
+Santa_Fe Omaha
+New_York Chicago
+Atlanta Washington
+Charleston Little_Rock
+El_Paso Houston
+Salt_Lake_City El_Paso
+Duluth New_York
+Charleston Omaha
+Washington New_Orleans
+Boston Toronto
+done

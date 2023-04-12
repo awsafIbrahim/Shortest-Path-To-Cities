@@ -1,0 +1,79 @@
+Bug Report
+==========
+
+
+For each fixed bug , please provide the following information:
+  - Class name
+  - Method name
+  - Line number
+	- Cause of bug
+  - Bug fix (or reason bug is not easily fixed)
+
+
+BUGS FOUND AND FIXED BY UNIT TEST (should be 4-5 more bugs to find):
+
+Bug 0:
+  Class: Link
+	Method: toString()
+	Line: 65
+	Cause: printing same city twice
+	Fix: print city2.toString()
+
+Bug 1:
+  Class: City
+	Method: compareTo
+	Line: 56
+	Cause: comparing name to name
+	Fix: compare to p.name
+
+Bug 2:
+  Class: City
+	Method: find
+	Line: 39
+	Cause: returning null instead of new city
+	Fix: return p
+
+Bug 3:
+  Class: Link
+	Method: isUsed
+	Line: 52
+	Cause: returning false instead of used
+	Fix: return used
+
+Bug 4:
+  Class: Link
+	Method: getAdj
+	Line: 47
+	Cause: always returning city1
+	Fix: return city2 when c == city1
+
+Bug 5:
+  Class: City
+	Method: getLinksTo
+	Line: 82
+	Cause: returns false when a route is found
+	Fix: return true instead
+
+Bug 6:
+  Class: City
+	Method: getLinksTo
+	Line: 86
+	Cause: returns true when no route is found
+	Fix: return false instead
+
+
+BUGS FOUND AND FIXED USING EXPECTED INPUT (2-3):
+
+Bug 6:
+  Class: City
+	Method: makeTree
+	Line: 108
+	Cause: cities never added to priority queue
+	Fix: pq.add(c)
+
+Bug 7:
+  Class: City
+	Method: makeTree
+	Line: 128
+	Cause: wrong direction of distance check
+	Fix: child.distance > city.distance + length

@@ -1,0 +1,23 @@
+The rail network consists of:
+  Atlanta 5 Miami
+  Atlanta 1 Nashville
+  Dallas 1 Houston
+  Dallas 2 Oklahoma_City
+  Duluth 6 Helena
+  Duluth 2 Omaha
+  Duluth 3 Sault_St._Marie
+  Duluth 4 Winnipeg
+  Helena 5 Omaha
+  Helena 3 Salt_Lake_City
+  Helena 6 Seattle
+  Helena 4 Winnipeg
+  Kansas_City 2 Oklahoma_City
+  Kansas_City 1 Omaha
+  Kansas_City 2 Saint_Louis
+  Las_Vegas 2 Los_Angeles
+  Las_Vegas 3 Salt_Lake_City
+  Montreal 3 Toronto
+  Nashville 2 Saint_Louis
+  Portland 1 Seattle
+  Sault_St._Marie 2 Toronto
+The total cost is: 60

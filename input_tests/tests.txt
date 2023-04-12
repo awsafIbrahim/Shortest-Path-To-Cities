@@ -1,0 +1,20 @@
+00 empty board, no routes
+01 1 seg board, 1 route
+02 3 seg board, 1 shortest route
+03 4 seg board, 1 shortest route
+04 5 seg board, 1 shortest route
+05 80 seg board, 1 shortest route (multi segment)
+06 4 seg board, 2 ind. routes
+07 3 seg board, 2 routes, sharing 1 seg.
+08 4 seg board, 2 routes, sharing 1 end-point.
+09 4 seg board, 2 routes, intersecting
+10 3 seg board, 3 routes, each cycling into next
+11 80 seg board, 2 shortest routes, non-intersecting
+12 80 seg board, 2 shortest routes, one subsuming the other
+13 80 seg board, 2 shortest routes, intersecting at a point
+14 80 seg board, 2 shortest routes, intersecting at a segment
+15 80 seg board, 3 shortest routes, each cycling into next
+16 80 seg board, 3 shortest routes, sharing on common endpoint, & most of route
+17 80 seg board, 5 shortest routes
+18 80 seg board, 10 shortest routes
+19 80 seg board, 20 shortest routes

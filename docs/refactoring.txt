@@ -1,0 +1,47 @@
+Refactoring
+===========
+
+Refactoring 1:
+=============
+class name: Link.java, LinkOneWay.java and LinkTwoWay.java
+Action taken: Made the Link.java a super class and created two more classes called LinkOneWay and LinkTwoWay which are the sub classes of the Link.java. It basically follows the SOLID principle where I tried to ensure the 
+Single responsibilty principle of the classes. For example, Link.java is a generic class where the LinkOneway
+and LinkTwoWay handles the responsibility of a one way and two way link respectively. The toString() method were 
+implemented for LinkOneWay.java and LinkTwoWay.java according to their specifications. This ensures that the Link class can be extended if it is necessary.
+
+Refactoring 2:
+=============
+class name: LinkOneWay.java, LinkTwoWay.jav
+Action taken: Created the constructor for LinkOneWay.java in a way such that it only creates a uni directinal link from city 1 to city 2 and it does not sort the cities according
+to their alphabetical order. Created the constructor for LinkTwoWay.java in such a way so that it sorts the cities according to their aplhabetical order and creates a bidirectional link
+between city1 and city2.
+
+Refactoring 3:
+=============
+class name: Link.java
+Action taken: Changed the constructor in such a way that it only takes the city inputs and does not sort the 
+cities based on their alphabetical order. Sorting is a more specific work for the LinkTwoWay class so kept the 
+sorting for LinkTwoWay.java. Moreover, removed the toString() method from Link.java since this method has no
+need. It allows to maintain the Interface Segregation Principle.
+
+Refactoring 4:
+==============
+class name: RouteCost.java
+Action taken: Changed the for loop structure to while loop so that  a string.split() method  can be used for differentiating each input given by the user.
+
+Refactoring 5:
+==============
+class name:RouteCost.java
+Action taken: Used try catch blocks to throw and catch exceptions if the user gives any wrong inputs. If the user gives any wrong input error statemens are printed accordingly
+
+Refactoring 6:
+==============
+class name: CityTest.java
+Action taken: Changed the unit testing to facilitate the new extionsion such as testing if addLink() and getLinksTo() returns correct result based on one directional and two directional links.
+
+Refactoring 7:
+==============
+class name: RouteCost.java
+Refactoring Type: Routine/method level
+Refactoring suggestion: The long codes in the main method can be put into methods and can be used accordingly.
+

@@ -1,0 +1,18 @@
+The rail network consists of:
+  Atlanta 5 Miami
+  Atlanta 1 Nashville
+  Dallas 4 El_Paso
+  Dallas 1 Houston
+  El_Paso 3 Phoenix
+  Helena 5 Omaha
+  Helena 6 Seattle
+  Houston 2 New_Orleans
+  Kansas_City 1 Omaha
+  Kansas_City 2 Saint_Louis
+  Los_Angeles 3 Phoenix
+  Los_Angeles 3 San_Francisco
+  Miami 6 New_Orleans
+  Nashville 2 Saint_Louis
+  Portland 6 San_Francisco
+  Portland 1 Seattle
+The total cost is: 51

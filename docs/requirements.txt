@@ -1,0 +1,36 @@
+1. Support one way links
+    + one way links
+		+ two way links
+		+ output links in the same format as they are input
+
+2. Route changes
+    + one way links can only be traveled in one direction
+		+ two way links can be traveled in both directions
+
+3. Handle improper input
+    + output line with an error
+		+ too many tokens
+		+ too few tokens
+		+ link types other than one or two
+		+ invalid distance
+
+4. Add Unit tests for any new classes
+
+Bonus:  
+    Learn about Factory pattern
+    Implement factory pattern for links
+
+Add a factory
+    + Builds links given the input
+    + Allows easy addition of new links
+		+ Separate link and factory classes
+
+Extensions designed 10% (UML diagram)
+Extensions implemented 20%
+Extensions tested 20%
+Refactorings described (4) 10%
+Refactorings implemented (2) 10%
+Code Clarity 10%
+Document Clarity 10%
+Factory 10% Bonus
+

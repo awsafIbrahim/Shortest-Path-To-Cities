@@ -1,0 +1,18 @@
+The rail network consists of:
+  Calgary 4 Helena
+  Calgary 4 Seattle
+  Calgary 3 Vancouver
+  Charleston 4 Miami
+  Charleston 2 Raleigh
+  Denver 4 Oklahoma_City
+  Denver 5 Phoenix
+  El_Paso 3 Phoenix
+  Helena 4 Denver one
+  Little_Rock 3 New_Orleans
+  Little_Rock 2 Oklahoma_City
+  Miami 6 New_Orleans
+  Pittsburgh 2 Raleigh
+  Pittsburgh 2 Toronto
+  Sault_St._Marie 2 Toronto
+  Sault_St._Marie 6 Winnipeg
+The total cost is: 56
